@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Fight" name="We Wrestle" version="0.0.1" provider-name="Dread">
+	<extension point="xbmc.addon.repository" name="We Wrestle">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/my_github_fightdread/repository.Fight/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/my_github_fightdread/repository.Fight/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/my_github_fightdread/repository.Fight/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Wrestling Addon</summary>
+		<description lang="en">Includes We Wrestle Video Addon.</description>
+		<genre>sports,canadian,usa</genre>
+	</extension>
+</addon>
